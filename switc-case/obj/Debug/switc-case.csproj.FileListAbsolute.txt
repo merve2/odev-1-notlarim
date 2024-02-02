@@ -1,0 +1,7 @@
+C:\Users\Merve\source\repos\switc-case\bin\Debug\switc-case.exe.config
+C:\Users\Merve\source\repos\switc-case\bin\Debug\switc-case.exe
+C:\Users\Merve\source\repos\switc-case\bin\Debug\switc-case.pdb
+C:\Users\Merve\source\repos\switc-case\obj\Debug\switc-case.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\switc-case\obj\Debug\switc-case.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\switc-case\obj\Debug\switc-case.exe
+C:\Users\Merve\source\repos\switc-case\obj\Debug\switc-case.pdb
